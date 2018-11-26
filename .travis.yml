@@ -10,7 +10,7 @@ node_js:
 script:
   - npm run lint
   - npm run lint:css
-  - npm run test:cover
+  - npm run test:cover --runInBand
   - npm run build
   - npm run catalog-build
 after_success:
