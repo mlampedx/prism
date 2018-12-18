@@ -10,7 +10,6 @@
 [![Greenkeeper badge][greenkeeper-badge]](https://greenkeeper.io/)
 [![version][version-badge]][package]
 
-[![MIT License][license-badge]][license]
 [![PRs Welcome][prs-badge]][prs]
 [![Code of Conduct][coc-badge]][coc]
 
@@ -66,7 +65,7 @@ A documentation of each component and living styleguide will be available on the
 
 ## LICENSE:
 
-MIT
+[MIT][license]
 
 [build-badge]: https://travis-ci.org/ticketmaster/aurora.svg?branch=master
 [build]: https://travis-ci.org/ticketmaster/aurora
@@ -75,7 +74,6 @@ MIT
 [greenkeeper-badge]: https://badges.greenkeeper.io/ticketmaster/aurora.svg
 [version-badge]: https://img.shields.io/npm/v/@ticketmaster/aurora.svg
 [package]: https://www.npmjs.com/package/@ticketmaster/aurora
-[license-badge]: https://img.shields.io/npm/l/@ticketmaster/aurora.svg
 [license]: https://github.com/ticketmaster/aurora/blob/master/LICENSE
 [prs-badge]: https://img.shields.io/badge/PRs-welcome-brightgreen.svg
 [prs]: http://makeapullrequest.com
